@@ -2,4 +2,4 @@
 [Tech stack](#tech-stack)
 
 
-# <div id="#tech-stack">👨‍💻 Tech stack</div>
+# <div id="tech-stack">👨‍💻 Tech stack</div>
